@@ -8,6 +8,7 @@ My unofficial projects for Harvard's [CS50M](https://learning.edx.org/course/cou
 | --- | --- |
 | `project0` | TODO list web app |
 | `project1` | Pomodoro timer mobile app (tested on Android 8.x "Oreo") |
+| `project2` | Movie Browser (tested on Android 8.x "Oreo") |
 
 ## Dependencies
 
