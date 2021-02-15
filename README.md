@@ -1,6 +1,6 @@
 # harvardx-cs50m
 
-My unofficial projects for Harvard's [CS50M](https://learning.edx.org/course/course-v1:HarvardX+CS50M+Mobile/home) course (Mobile App Development with React Native) on edX
+My unofficial projects for Harvard's [CS50M](https://learning.edx.org/course/course-v1:HarvardX+CS50M+Mobile/home) course (Mobile App Development with React Native) on edX, except the final project since that is open-ended and I will be doing one for my officially enrolled COMP 4521 course (Spring 2020-21 offering) in HKUST anyway.
 
 ## Project Synposis
 
